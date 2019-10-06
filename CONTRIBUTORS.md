@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [İsmet Batansu](https://github.com/ismetbatansu)
+- Place: İstanbul, Turkey
+- Bio: Web developer ASP.NET and Python
+- Github: [İsmet Batansu](https://github.com/ismetbatansu)
